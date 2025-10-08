@@ -1,10 +1,9 @@
 # 14940 16317 13873
 
 import turtle
-
 turtle.tracer(0)  # чтобы сразу увидеть результат
 turtle.left(90)  # поворачиваем в начальное положение
-
+turtle.screensize(5000, 5000)
 # рисуем фигуру
 k = 20
 for i in range(2):

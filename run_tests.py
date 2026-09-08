@@ -17,7 +17,7 @@ PROJECT_DIR = "/Users/msikanov/PycharmProjects/ege-informatics/10-11отб"
 
 # Файл решения. Номер задачи берётся из его имени ("5-1.py" -> задача 5),
 # по нему ищутся тесты: "Тесты/5", "Тесты/Задача 5" и т. п.
-SOLUTION_FILE = "5-2.py"
+SOLUTION_FILE = "6.py"
 
 # Показывать вход / ожидаемый / полученный ответ для упавших тестов.
 VERBOSE = True

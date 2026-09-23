@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<address-book>
+  <person gender="male">
+    <name>Михаил Соколов</name>
+    <company>ООО ТехноПром</company>
+    <work-phone>+7-937-479-41-63</work-phone>
+    <personal-phone>+7-963-308-13-92</personal-phone>
+  </person>
+  <person gender="female">
+    <name>Анна Егорова</name>
+    <company>ООО ТехноПром</company>
+    <work-phone>+7-966-695-17-72</work-phone>
+    <personal-phone>+7-984-801-20-17</personal-phone>
+  </person>
+  <person gender="male">
+    <name>Михаил Соколов</name>
+    <company>ООО ТехноПром</company>
+    <work-phone>+7-903-916-81-57</work-phone>
+    <personal-phone>+7-943-106-34-81</personal-phone>
+  </person>
+  <person gender="female">
+    <name>Татьяна Голубева</name>
+    <company>ООО Глобус</company>
+    <work-phone>+7-972-526-86-29</work-phone>
+    <personal-phone>+7-994-365-23-48</personal-phone>
+  </person>
+  <person gender="male">
+    <name>Михаил Соколов</name>
+    <company>ООО Ромашка</company>
+    <work-phone>+7-934-250-96-32</work-phone>
+    <personal-phone>+7-980-561-93-75</personal-phone>
+  </person>
+  <person gender="female">
+    <name>Светлана Виноградова</name>
+    <company>АО СтройИнвест</company>
+    <work-phone>+7-952-292-41-88</work-phone>
+    <personal-phone>+7-975-357-97-40</personal-phone>
+  </person>
+  <person gender="male">
+    <name>Андрей Морозов</name>
+    <company>ЗАО Вектор</company>
+    <work-phone>+7-910-354-18-79</work-phone>
+    <personal-phone>+7-995-647-66-42</personal-phone>
+  </person>
+  <person gender="female">
+    <name>Ирина Семёнова</name>
+    <company>ООО Ромашка</company>
+    <work-phone>+7-972-402-76-46</work-phone>
+    <personal-phone>+7-972-837-37-11</personal-phone>
+  </person>
+  <person gender="male">
+    <name>Виктор Лебедев</name>
+    <company>ООО Ромашка</company>
+    <work-phone>+7-992-789-43-64</work-phone>
+    <personal-phone>+7-974-541-22-81</personal-phone>
+  </person>
+  <person gender="female">
+    <name>Анна Егорова</name>
+    <company>АО СтройИнвест</company>
+    <work-phone>+7-967-114-25-44</work-phone>
+    <personal-phone>+7-936-136-69-69</personal-phone>
+  </person>
+  <person gender="male">
+    <name>Михаил Соколов</name>
+    <company>АО Меридиан</company>
+    <work-phone>+7-907-361-33-68</work-phone>
+    <personal-phone>+7-972-874-42-37</personal-phone>
+  </person>
+  <person gender="female">
+    <name>Светлана Виноградова</name>
+    <company>ООО Глобус</company>
+    <work-phone>+7-964-142-54-24</work-phone>
+    <personal-phone>+7-908-760-98-61</personal-phone>
+  </person>
+  <person gender="male">
+    <name>Михаил Соколов</name>
+    <company>АО СтройИнвест</company>
+    <work-phone>+7-919-848-28-64</work-phone>
+    <personal-phone>+7-987-749-14-82</personal-phone>
+  </person>
+  <person gender="female">
+    <name>Анна Егорова</name>
+    <company>ООО Глобус</company>
+    <work-phone>+7-987-388-80-24</work-phone>
+    <personal-phone>+7-979-870-64-74</personal-phone>
+  </person>
+  <person gender="male">
+    <name>Сергей Смирнов</name>
+    <company>ООО Глобус</company>
+    <work-phone>+7-959-616-75-47</work-phone>
+    <personal-phone>+7-929-256-54-18</personal-phone>
+  </person>
+  <person gender="female">
+    <name>Елена Захарова</name>
+    <company>ООО Альянс</company>
+    <work-phone>+7-931-274-47-64</work-phone>
+    <personal-phone>+7-912-855-24-61</personal-phone>
+  </person>
+  <person gender="male">
+    <name>Дмитрий Попов</name>
+    <company>АО СтройИнвест</company>
+    <work-phone>+7-929-997-32-91</work-phone>
+    <personal-phone>+7-903-411-37-63</personal-phone>
+  </person>
+  <person gender="female">
+    <name>Татьяна Голубева</name>
+    <company>АО Меридиан</company>
+    <work-phone>+7-941-227-40-21</work-phone>
+    <personal-phone>+7-969-128-82-65</personal-phone>
+  </person>
+  <person gender="male">
+    <name>Михаил Соколов</name>
+    <company>ООО Глобус</company>
+    <work-phone>+7-901-750-39-27</work-phone>
+    <personal-phone>+7-911-354-49-18</personal-phone>
+  </person>
+  <person gender="female">
+    <name>Наталья Павлова</name>
+    <company>АО СтройИнвест</company>
+    <work-phone>+7-961-451-73-12</work-phone>
+    <personal-phone>+7-937-240-88-43</personal-phone>
+  </person>
+  <person gender="male">
+    <name>Михаил Соколов</name>
+    <company>ИП Соколов</company>
+    <work-phone>+7-918-680-75-99</work-phone>
+    <personal-phone>+7-974-450-38-74</personal-phone>
+  </person>
+  <person gender="female">
+    <name>Светлана Виноградова</name>
+    <company>ИП Соколов</company>
+    <work-phone>+7-983-591-20-81</work-phone>
+    <personal-phone>+7-937-982-59-27</personal-phone>
+  </person>
+  <person gender="male">
+    <name>Алексей Кузнецов</name>
+    <company>ИП Соколов</company>
+    <work-phone>+7-951-966-78-49</work-phone>
+    <personal-phone>+7-904-967-54-17</personal-phone>
+  </person>
+  <person gender="female">
+    <name>Мария Фёдорова</name>
+    <company>АО СтройИнвест</company>
+    <work-phone>+7-954-706-58-94</work-phone>
+    <personal-phone>+7-989-454-44-91</personal-phone>
+  </person>
+</address-book>
